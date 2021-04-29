@@ -7,4 +7,5 @@ This was made using Java 8 and a graphical library which you can find [here](htt
 - Junit tests.
 - Factories.
 - Dependencies and library usage.
-- Inheritance between classes, interfaces and abstract classes (duh).
+- Inheritance between classes, interfaces and abstract classes.
+- Reflections.
